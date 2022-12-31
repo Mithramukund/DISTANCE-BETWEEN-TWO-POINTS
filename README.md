@@ -8,7 +8,7 @@ get 2 inputs from user
 ### Step 2: 
 intialize the values into variables
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula  ![formula](formula.jpg)
 ### Step 4: 
 print the result 
 ### PROGRAM:
