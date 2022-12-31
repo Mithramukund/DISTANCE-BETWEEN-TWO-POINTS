@@ -22,7 +22,7 @@ print("{:.2f}".format(dist))
 
 
 ### OUTPUT:
-![output](123.png)]
+![output](123.png)
 
 ### RESULT:
-by this program we can able to calculate distance between two points.
+by this program we are able to calculate distance between two points.
