@@ -8,7 +8,9 @@ get 2 inputs from user
 ### Step 2: 
 intialize the values into variables
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](formula.jpg)
+Substitute the values in the distance formula  
+![formula](https://user-images.githubusercontent.com/121608770/212472751-8b28918d-6009-4408-a558-d9614df468d6.JPG)
+
 ### Step 4: 
 print the result 
 ### PROGRAM:
@@ -22,7 +24,7 @@ print("{:.2f}".format(dist))
 
 
 ### OUTPUT:
-![output](123.png)
+![123](https://user-images.githubusercontent.com/121608770/212472734-8eec07e9-c9ea-4760-ac44-ed75ec923310.png)
 
 ### RESULT:
 by this program we are able to calculate distance between two points.
